@@ -5,8 +5,4 @@
 3. Run the following command:
    ```bash
    npx ts-node src/server/app.ts
-4. Note: You may need to install some packages:
-Node.js
-TypeScript
-Express
-Vitest using the Vite environment.
+4. Note: You may need to install some packages:Node.js,TypeScript,Express,Vitest using the Vite environment.
